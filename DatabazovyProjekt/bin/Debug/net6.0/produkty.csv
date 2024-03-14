@@ -1,0 +1,4 @@
+Nazev,Cena,Skladem,VyrobniDatum
+"Produkt 1",159.99,true,2023-01-15
+"Produkt 2",299.50,false,2023-02-20
+"Produkt 3",99.99,true,2023-03-01
